@@ -1,10 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Repository_Layer.Services.Entities;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
-namespace Repository_Layer.Services
+namespace RepositoryLayer.Services
 {
     public class FundooContext : DbContext
     {

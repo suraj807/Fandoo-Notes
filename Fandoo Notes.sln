@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32505.173
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fandoo Notes", "Fandoo Notes\Fandoo Notes.csproj", "{22441FF4-0897-497E-AF14-58F077349D0A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fandoo Notes", "Fandoo Notes\Fandoo Notes.csproj", "{22441FF4-0897-497E-AF14-58F077349D0A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository Layer", "Repository Layer\Repository Layer.csproj", "{D41A32EC-5826-4878-AA2E-E3674B5833E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Repository Layer", "Repository Layer\Repository Layer.csproj", "{D41A32EC-5826-4878-AA2E-E3674B5833E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BussinessLayer", "BussinessLayer\BussinessLayer.csproj", "{43C7965E-1783-4E5F-8574-A1E89A6155E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BussinessLayer", "BussinessLayer\BussinessLayer.csproj", "{43C7965E-1783-4E5F-8574-A1E89A6155E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseLayer", "DatabaseLayer\DatabaseLayer.csproj", "{71BF287A-0460-4D69-A091-97E7061F9E58}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DatabaseLayer", "DatabaseLayer\DatabaseLayer.csproj", "{71BF287A-0460-4D69-A091-97E7061F9E58}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
